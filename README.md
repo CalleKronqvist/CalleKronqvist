@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Carl
 
-- 🎓 I'm an M.Sc in Complex Adaptive Systems at Chalmers
-- 💡 I’m currently working on: My Master Thesis
-- 🧠 I’m interested in: Generative Models, Privacy Attacks, Federated Learning   
-- 📫 How to reach me: calle.kronqvist@gmail.com
+-  I'm an M.Sc in Complex Adaptive Systems at Chalmers
+-  I’m currently working on: My Master Thesis
+-  I’m interested in: Generative Models, Privacy Attacks, Federated Learning   
 
 ## 🚀 My Projects
 - [Generating fake Monet paintings with DCGAN and Cycle-GAN](https://github.com/CalleKronqvist/tif360-project) 
