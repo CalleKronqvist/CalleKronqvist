@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Carl
+# Hi, I'm Carl
 
 -  I'm an M.Sc in Complex Adaptive Systems at Chalmers
 -  I’m currently working on: My Master Thesis
 -  I’m interested in: Machine Learning and Big Data  
 
-## 🚀 My Projects
+## My Projects
 - [Generating fake Monet paintings with DCGAN and Cycle-GAN](https://github.com/CalleKronqvist/tif360-project) 
 - [Federated Learning Simulations](https://github.com/yourusername/project3)
 - [Visualize Information with JavaScript](https://github.com/CalleKronqvist/Info_Viz)
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
