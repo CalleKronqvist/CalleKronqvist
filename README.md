@@ -5,8 +5,8 @@
 -  I’m interested in: Machine Learning and Big Data  
 
 ## My Projects
+- [Federated Learning Simulations](https://github.com/CalleKronqvist/FederatedLearning)
 - [Generating fake Monet paintings with DCGAN and Cycle-GAN](https://github.com/CalleKronqvist/tif360-project) 
-- [Federated Learning Simulations](https://github.com/yourusername/project3)
 - [Visualize Information with JavaScript](https://github.com/CalleKronqvist/Info_Viz)
 
 ## Tech Stack
