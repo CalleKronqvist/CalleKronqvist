@@ -1,8 +1,5 @@
-# Hi, I'm Carl
-
--  I'm an M.Sc in Complex Adaptive Systems at Chalmers
--  I’m currently working on: My Master Thesis
--  I’m interested in: Machine Learning and Big Data  
+-  Masters in Complex Adaptive Systems at Chalmers
+-  Programming mostly in ML and Big Data projects
 
 ## My Projects
 - [Federated Learning Simulations](https://github.com/CalleKronqvist/FederatedLearning)
